@@ -1,0 +1,55 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Large / unwanted data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.mat
+*.db
+*.sqlite
+*.log
+
+# Project folders and generated artifacts
+**/anaconda_projects/
+**/models/
+**/flask/
+**/venv/
+**/env/
+**/__pycache__/
+
+# Repository folders excluded from the public upload
+codeverse/
+QUESTIONS/
+14_docker/
+15_github/
