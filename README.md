@@ -1,6 +1,6 @@
-# Machine Learning, Deep Learning & NLP Study Hub
+# Machine Learning Study Hub
 
-A polished collection of notebook-based learning materials covering the foundations of machine learning, deep learning, and natural language processing.
+A polished collection of notebook-based learning materials covering the foundations of machine learning.
 
 ## Why this repository exists
 
