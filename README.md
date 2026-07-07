@@ -114,16 +114,10 @@ jupyter notebook
 | Clustering | Unsupervised grouping using K-Means and hierarchical methods | [10_K-Mean clustering](10_K-Mean%20clustering) |
 | Anomaly Detection | Detecting unusual patterns in data | [13_anomaly detection](13_anomaly%20detection) |
 
-## Learning Source / Acknowledgment
-
-This repository is built as a practical study archive based on the learning foundation provided by Krish Naik's course content and tutorials.
-
-- YouTube Channel: [Krish Naik](https://www.youtube.com/@KrishNaik)
-
 ## Connect with Me
 
 - GitHub: [@djain28006](https://github.com/djain28006)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/danish-jain-6b9261316/)
 
 ## License
 
