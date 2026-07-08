@@ -1,4 +1,4 @@
-# Machine Learning & Data Science Study Hub
+# Machine Learning Study Hub
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
